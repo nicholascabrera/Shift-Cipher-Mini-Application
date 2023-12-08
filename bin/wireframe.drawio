@@ -1,0 +1,25 @@
+<mxfile host="65bd71144e">
+    <diagram id="wAIEdiM3-NnImPbStQzR" name="Page-1">
+        <mxGraphModel dx="1054" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rotation=0;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="40" width="600" height="400" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Plaintext" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="140" y="80" width="280" height="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Ciphertext" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="425" y="80" width="280" height="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Shift Amount" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="140" y="50" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Translate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="270" y="50" width="120" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
